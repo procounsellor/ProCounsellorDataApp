@@ -2,6 +2,5 @@ env/
 __pycache__/
 *.pyc
 *.sqlite3
-/media/
 .DS_Store
 *.log
