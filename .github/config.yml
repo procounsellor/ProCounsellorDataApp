@@ -1,0 +1,5 @@
+# .github/config.yml
+newIssueWelcomeComment: "Thanks for opening your first issue!"
+newPRWelcomeComment: "Thanks for the PR! A maintainer will review it soon."
+firstPRMergeComment: "Congrats on merging your first pull request! 🎉"
+

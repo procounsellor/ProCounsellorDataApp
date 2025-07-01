@@ -1,0 +1,8 @@
+{
+  "projectName": "your-project-name",
+  "projectOwner": "your-github-username",
+  "repoType": "github",
+  "files": [
+    "README.md"
+  ]
+}
