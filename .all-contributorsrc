@@ -1,8 +1,22 @@
 {
-  "projectName": "your-project-name",
-  "projectOwner": "your-github-username",
+  "projectName": "ProCounsellorDataApp",
+  "projectOwner": "procounsellor",
   "repoType": "github",
   "files": [
     "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "Nishant-Sagar",
+      "name": "Nishant Sagar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66466895?v=4",
+      "profile": "https://github.com/Nishant-Sagar",
+      "contributions": [
+        "code"
+      ]
+    }
   ]
 }
