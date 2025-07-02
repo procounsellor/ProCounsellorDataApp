@@ -1,6 +1,24 @@
-env/
-__pycache__/
+# Python
 *.pyc
-*.sqlite3
-.DS_Store
+__pycache__/
+
+# Django
+db.sqlite3
+staticfiles/
+
+# Environments
+env/
+venv/
+.venv/
+.env
+*.env
+
+# GCP
 *.log
+
+# OS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
