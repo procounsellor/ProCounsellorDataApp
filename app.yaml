@@ -10,3 +10,16 @@ handlers:
 
 - url: /.*
   script: auto
+
+
+# 👇 Add this to skip large/unneeded folders
+skip_files:
+  - ^env/.*            # your virtual environment
+  - ^venv/.*           # or other virtual env names
+  - ^node_modules/.*   # if present
+  - ^__pycache__/.*    # compiled python files
+  - ^\.git/.*          # git repo
+  - ^\.idea/.*         # PyCharm or IDE files
+  - ^\.vscode/.*       # VS Code config
+  - ^.*\.pyc           # compiled Python files
+  - ^\.DS_Store        # MacOS metadata
