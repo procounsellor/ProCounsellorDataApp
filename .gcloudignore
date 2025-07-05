@@ -42,5 +42,3 @@ node_modules/
 
 # Tests, local data, and misc
 *.log
-*.sqlite3
-*.db
